@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net" modified="2024-04-11T08:12:57.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CZyjFCrB0kDtWQfIGJ88" version="24.2.2" type="device">
+  <diagram name="Сторінка-1" id="xjP0x8S3jR4pYbRT02pa">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-1" value="Threats" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="85" y="154" width="1037" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-2" value="Competitive market" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="267" y="179" width="159" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-3" value="Economic downturn" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="504" y="179" width="156" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-4" value="Regulatory changes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="179" width="154" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-5" value="Emerging competitors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="914" y="179" width="172" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-6" value="Opportunities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="61" y="414" width="925" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-7" value="Expansion into new markets" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="96" y="439" width="216" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-8" value="Developing new products" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="362" y="439" width="195" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-9" value="Strategic partnerships" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="607" y="439" width="173" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-10" value="Market growth" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="831" y="439" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-11" value="Weaknesses" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1128" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-12" value="Weak online presence" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="45" width="173" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-13" value="Dependence on few suppliers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="887" y="45" width="226" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-14" value="Obsolete technology" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="278" y="45" width="162" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-15" value="Limited product range" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="494" y="45" width="175" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-16" value="Strengths" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="1032" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-17" value="Strong brand" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="285" y="305" width="107" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-18" value="High-quality products" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="587" y="305" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-19" value="Cost leadership" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="305" width="125" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-20" value="Skilled workforce" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="877" y="305" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.0007118866822429906;exitY=0.9571754601676756;entryX=0.48174930417768963;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-17" target="s_64FgUI-3UMEMb_EpUN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194" y="364" />
+              <mxPoint x="194" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9966596086448598;exitY=0.7650287839774275;entryX=0.2530474233587938;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-17" target="s_64FgUI-3UMEMb_EpUN-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="587" y="364" />
+              <mxPoint x="587" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.0012522977941176472;exitY=0.9948876342636711;entryX=0.5016826923076924;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-18" target="s_64FgUI-3UMEMb_EpUN-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9970932904411764;exitY=0.9782536451844045;entryX=0.49860026041666666;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-18" target="s_64FgUI-3UMEMb_EpUN-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="891" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.000515625;exitY=0.8783212085536988;entryX=0.721348353794643;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-19" target="s_64FgUI-3UMEMb_EpUN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="364" />
+              <mxPoint x="322" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02471433886054391;exitY=1;entryX=0.7104563420382604;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-20" target="s_64FgUI-3UMEMb_EpUN-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="782" y="364" />
+              <mxPoint x="782" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4986903901734104;exitY=1;entryX=-0.00009827044025157233;entryY=0.021482553159087307;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-12" target="s_64FgUI-3UMEMb_EpUN-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.501062983960177;exitY=1;entryX=0.5013967114825582;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-13" target="s_64FgUI-3UMEMb_EpUN-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49872202932098764;exitY=1;entryX=0.5311915056903266;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-14" target="s_64FgUI-3UMEMb_EpUN-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="359" y="154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23988626700680274;exitY=1;entryX=0.8097288320792153;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-15" target="s_64FgUI-3UMEMb_EpUN-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="468" y="104" />
+              <mxPoint x="468" y="154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5032254464285715;exitY=1;entryX=0.5004131610576923;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-15" target="s_64FgUI-3UMEMb_EpUN-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_64FgUI-3UMEMb_EpUN-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9775648384353742;exitY=1;entryX=0.5009511972402597;entryY=0;rounded=0;" edge="1" parent="1" source="s_64FgUI-3UMEMb_EpUN-15" target="s_64FgUI-3UMEMb_EpUN-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="787" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
