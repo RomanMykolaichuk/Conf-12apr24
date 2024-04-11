@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Питання 1 -->
+    <question type="truefalse">
+        <name>
+            <text>ШІ може використовуватись для персоналізації навчального процесу</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[Чи може штучний інтелект використовуватись для персоналізації навчального процесу, адаптуючи його до індивідуальних потреб учня?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>true</text>
+            <feedback><text>Так, ШІ вже застосовується для персоналізації навчання.</text></feedback>
+        </answer>
+        <answer fraction="0">
+            <text>false</text>
+            <feedback><text>Насправді, ШІ може використовуватись для персоналізації навчального процесу.</text></feedback>
+        </answer>
+    </question>
+    <!-- Питання 2 -->
+<question type="multichoice">
+    <name>
+        <text>Застосування ШІ для оцінювання робіт</text>
+    </name>
+    <questiontext format="html">
+        <text><![CDATA[Які види студентських робіт може автоматично оцінювати ШІ? Виберіть всі підходящі варіанти.]]></text>
+    </questiontext>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+        <text>Есе</text>
+        <feedback><text>Так, ШІ може оцінювати есе.</text></feedback>
+    </answer>
+    <answer fraction="100">
+        <text>Краткі відповіді</text>
+        <feedback><text>Так, ШІ може оцінювати краткі відповіді.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Лабораторні роботи</text>
+        <feedback><text>Наразі ШІ має обмеження на оцінювання комплексних лабораторних робіт.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Усні відповіді</text>
+        <feedback><text>Оцінювання усних відповідей ШІ може бути складніше без інтеграції спеціалізованих систем.</text></feedback>
+    </answer>
+</question>
+
+    <!-- Питання 3 -->
+    <question type="essay">
+        <name>
+            <text>Можливості та обмеження ШІ в освіті</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[Опишіть можливості та обмеження використання штучного інтелекту в освіті.]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text>Зверніть увагу на такі аспекти, як персоналізація навчання, автоматизація оцінювання, підтримка студентів, етичні питання тощо.</text>
+        </generalfeedback>
+    </question>
+    <!-- Інші питання можуть включати різні типи відповідей, такі як вибір кількох варіантів, підпункти, відповіді у вигляді чисел тощо. -->
+</quiz>
