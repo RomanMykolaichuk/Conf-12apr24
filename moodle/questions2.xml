@@ -1,0 +1,45 @@
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Що означає абревіатура SWOT?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Оберіть правильну відповідь.</p>]]></text>
+    </questiontext>
+    <shuffleanswers>1</shuffleanswers>
+    <answer fraction="100">
+      <text>Strengths, Weaknesses, Opportunities, Threats</text>
+    </answer>
+    <answer fraction="0">
+      <text>Success, Wealth, Optimism, Teamwork</text>
+    </answer>
+    <answer fraction="0">
+      <text>Strategic, Workforce, Operations, Technologies</text>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Які з наведених нижче аспектів відносяться до внутрішніх факторів SWOT-аналізу?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Оберіть одну або кілька правильних відповідей.</p>]]></text>
+    </questiontext>
+    <shuffleanswers>1</shuffleanswers>
+    <answer fraction="100">
+      <text>Strengths (Сильні сторони)</text>
+    </answer>
+    <answer fraction="100">
+      <text>Weaknesses (Слабкі сторони)</text>
+    </answer>
+    <answer fraction="0">
+      <text>Opportunities (Можливості)</text>
+    </answer>
+    <answer fraction="0">
+      <text>Threats (Загрози)</text>
+    </answer>
+  </question>
+
+  <!-- Додайте ще запитання тут -->
+
+</quiz>
